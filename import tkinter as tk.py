@@ -3,7 +3,7 @@ from find_motion import find_motion
 
 
 gauru = Tk()
-gauru.title(" WASTE OF TIME              ")
+gauru.title(" WASTE OF TIME")
 gauru.geometry("400x300")
 
 
